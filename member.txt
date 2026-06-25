@@ -2,3 +2,4 @@
 Computer Architecture
 Yazan Nohma
 Yosouf Naser
+Haidi Aldarweesh
